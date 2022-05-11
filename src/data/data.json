@@ -4,18 +4,18 @@
     "paragraph": "Invest In Different Properties Using MVP Crowdfunding"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amt, consectetur adipiscing elit, sed  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Real estate is fantastic, it’s one of the most important asset classes to own and to build long-term wealth. Investing in real estate is anything but fantastic – it’s largely inaccessible to the average person, it’s paperwork intensive and time-consuming, there’s a lot of admin and maintenance, and as a market, it’s opaque and illiquid. Also, in our experience property investors all too often don't get the value they deserve - buying into deals with promises of returns that don’t ever materialize.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Real Estate Expertise",
+      "Hassle-free Ownership",
+      "Regulated by the DFSA",
+      "Quality"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Real Estate Expertise",
+      "Hassle-free Ownership",
+      "Regulated by the DFSA",
+      "Quality"
     ]
   },
   "Gallery": [
@@ -162,22 +162,22 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "CROWE",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "OMG",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "DIFC",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "ONFIDO",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]
