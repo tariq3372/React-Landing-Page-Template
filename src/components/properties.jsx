@@ -20,7 +20,7 @@ export const Properties = (props) => {
         <div className="row">
           <div className="properties-items">
             <div className="row w-100">
-              <div className="col-lg-4">
+              <div className="col-lg-4 margin-top">
                 <Box sx={{ backgroundColor: 'white', borderRadius: 2, position: 'absolute', top: 30, left: 0, zIndex: 99999, boxShadow: 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;' }}>
                   <Box sx={{ display: 'flex', flexDirection: 'row', alignItems: 'center', px: 8, py: 2, }}>
                     <Typography sx={{ mr: 2 }} color="black" fontWeight={"600"} variant="h4" component="div">
@@ -91,7 +91,7 @@ export const Properties = (props) => {
                   </CardContent>
                 </Card>
               </div>
-              <div className="col-lg-4">
+              <div className="col-lg-4 margin-top">
                 <Box sx={{ backgroundColor: 'white', borderRadius: 2, position: 'absolute', top: 30, left: 0, zIndex: 99999, boxShadow: 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;' }}>
                   <Box sx={{ display: 'flex', flexDirection: 'row', alignItems: 'center', px: 8, py: 2, }}>
                     <Typography sx={{ mr: 2 }} color="black" fontWeight={"600"} variant="h4" component="div">
@@ -162,7 +162,7 @@ export const Properties = (props) => {
                   </CardContent>
                 </Card>
               </div>
-              <div className="col-lg-4">
+              <div className="col-lg-4 margin-top">
                 <Box sx={{ backgroundColor: 'white', borderRadius: 2, position: 'absolute', top: 30, left: 0, zIndex: 99999, boxShadow: 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;' }}>
                   <Box sx={{ display: 'flex', flexDirection: 'row', alignItems: 'center', px: 8, py: 2, }}>
                     <Typography sx={{ mr: 2 }} color="black" fontWeight={"600"} variant="h4" component="div">
