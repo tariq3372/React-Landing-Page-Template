@@ -12,10 +12,10 @@ export const Properties = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Properties</h2>
-          <p>
+          {/* <p>
             Ninety percent of all millionaires become so through owning real
             estate.
-          </p>
+          </p> */}
         </div>
         <div className="row">
           <div className="properties-items">
