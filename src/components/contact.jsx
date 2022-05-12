@@ -100,7 +100,7 @@ export const Contact = (props) => {
               <h3>Contact Info</h3>
               <p>
                 <span>
-                  <i className='fa fa-map-marker'></i> Address
+                  <i className='fa fa-map-marker fa-spin'></i> Address
                 </span>
                 {props.data ? props.data.address : 'loading'}
               </p>
@@ -150,10 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
-            <a href='http://www.templatewire.com' rel='nofollow'>
-              TemplateWire
-            </a>
+          Copyright MVP Crowdfunding &copy;2022. All rights reserved.
           </p>
         </div>
       </div>

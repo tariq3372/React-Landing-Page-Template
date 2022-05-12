@@ -246,10 +246,10 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
-#features {
+#partners {
   background: #f6f6f6;
 }
-#features i.fa {
+#partners i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
@@ -352,14 +352,14 @@ header .intro-text {
   margin-bottom: 40px;
 }
 /* Portfolio Section */
-#portfolio {
+#properties {
   padding: 100px 0;
 }
-.portfolio-item {
+.properties-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
 }
-.portfolio-item .hover-bg {
+.properties-item .hover-bg {
   overflow: hidden;
   position: relative;
   margin: 0;
